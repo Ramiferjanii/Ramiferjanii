@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Rami Ben Ferjani and I'm a BI Analyst & MERN Developer | MongoDB · Express · React · Node.js from TUnisia</h2>
+<h2 align="left">Hi 👋! My name is Rami Ben Ferjani and I'm a BI Analyst & MERN Developer | MongoDB · Express · React · Node.js from Tunisia</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=110%&height=150§ion=header"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rami+Ben+Ferjani;A+Web+Developer+from+Tunisia;BI+Analyst+&+MERN+Developer." alt="Typing SVG" />
 </div> 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramiferjanii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -67,7 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.instagram.com/rami_ferjani_/?igsh=MTdwbjR1bWU5bzdxbA%3D%3D#" target="_blank">
@@ -86,16 +86,16 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramiferjanii.Ramiferjanii&"  />
 </div>
 
-###
+
 
 <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+
