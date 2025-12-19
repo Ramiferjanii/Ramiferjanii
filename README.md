@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rami Ben Ferjani and I'm a BI Analyst & MERN Developer | MongoDB · Express · React · Node.js NextJs from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Rami Ben Ferjani and I'm a BI Analyst & MERN Developer | MongoDB · Express · React · Node.js  from Tunisia</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=110%&height=150§ion=header"/>
 
